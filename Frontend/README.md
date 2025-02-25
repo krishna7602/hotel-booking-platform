@@ -39,7 +39,4 @@ Create a `.env` file in the `Frontend` directory with the following content:
 VITE_BASE_URL=http://localhost:8000
 ```
 
-## Photos
 
-![Home Page](../photos/home-page.png)
-![Hotel Details](../photos/hotel-details.png)

@@ -2,6 +2,7 @@
 
 This project is a full-stack hotel booking application built with React for the frontend and Node.js with Express for the backend. The application allows users to view, book, and manage hotel reservations.
 
+
 ## Folder Structure
 
 ```
@@ -34,6 +35,16 @@ hotel-booking/
 ├── README.md
 └── .gitignore
 ```
+
+## Photos
+![Screenshot 2025-02-26 003947](https://github.com/user-attachments/assets/7e02518a-b99d-4924-9c39-7e319ef1c228)
+![Screenshot 2025-02-26 004149](https://github.com/user-attachments/assets/b7e8dc98-481e-4a13-852d-953661c415b6)
+![Screenshot 2025-02-26 004202](https://github.com/user-attachments/assets/93e7d280-8529-43af-a8ef-f4fce6e347fc)
+![Screenshot 2025-02-26 004213](https://github.com/user-attachments/assets/3ec8d548-d02b-40bd-9a8c-7c48fdf0da19)
+![Screenshot 2025-02-26 004222](https://github.com/user-attachments/assets/2f9645a9-8474-4df1-8269-e3487137f42a)
+
+
+
 
 ## API Endpoints
 
@@ -81,3 +92,4 @@ Create a `.env` file in the `Frontend` directory with the following content:
 ```
 VITE_BASE_URL=http://localhost:8000
 ```
+

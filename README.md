@@ -58,10 +58,7 @@ hotel-booking/
 - **POST /api/hotels**: Add a new hotel.
 - **GET /api/hotels**: Get all hotels.
 
-## Photos
 
-![Home Page](./photos/home-page.png)
-![Hotel Details](./photos/hotel-details.png)
 
 ## Getting Started
 
